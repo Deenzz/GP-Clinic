@@ -1,0 +1,6 @@
+{
+  "name": "GP ClinicDay — Clinical Documentation & Referral Suite",
+  "description": "High-speed clinical SOAP documentation, emergency triage protocols, and hospital SBAR referral generator for outpatient and General Practice clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
